@@ -2,14 +2,19 @@
 🔍 Key Insights
 
 Total Revenue and Total Orders
+
 Top 5 Best-Selling Pizzas
+
 Bottom 5 Least-Selling Pizzas
+
 Sales by Category and Size
+
 Daily and Monthly Sales Trends
+
 
 🛠 Tools Used
 
-SQL Server ,Advanced Excel,Pivot Tables,Slicer,Charts & Data Visualization
+SQL Server,Advanced Excel,Pivot Tables,Slicer,Charts & Data Visualization
 
 
 📁 Files Included

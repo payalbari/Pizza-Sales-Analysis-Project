@@ -8,10 +8,15 @@ Sales by Category and Size
 Daily and Monthly Sales Trends
 
 🛠 Tools Used
+
 SQL
+
 Microsoft Excel
+
 Pivot Tables
+
 Slicer
+
 Charts & Data Visualization
 
 📁 Files Included

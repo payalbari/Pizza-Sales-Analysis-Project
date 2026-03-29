@@ -25,7 +25,7 @@ Dashboard.png
 
 📸 Dashboard Preview
 
-<p align="center">
+<p align="left">
   <img src="Dashboard.png" width=250"/>
 </p>
 🚀 Outcome

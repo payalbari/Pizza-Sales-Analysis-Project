@@ -30,4 +30,6 @@ Dashboard.png
 </p>
 🚀 Outcome
 
-This dashboard enables better decision-making by providing clear insights into sales trends and customer preferences.
+This dashboard provides clear insights into pizza sales performance by analyzing revenue, orders, and product demand. It helps identify top-selling items, peak sales periods, and customer preferences.
+
+The analysis supports better decision-making by enabling demand forecasting, optimizing inventory levels, and improving sales strategies. Based on trends, the business can plan stock efficiently and focus on high-performing products to drive future growth.

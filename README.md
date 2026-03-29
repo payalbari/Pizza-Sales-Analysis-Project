@@ -18,6 +18,7 @@ Charts & Data Visualization
 
 Pizza_Sales_Dashboard.xlsx
 Pizza Sales SQL Queries.docx
+Dashboard.png
 
 📸 Dashboard Preview
 

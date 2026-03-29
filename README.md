@@ -9,15 +9,8 @@ Daily and Monthly Sales Trends
 
 🛠 Tools Used
 
-SQL
+SQL Server ,Advanced Excel,Pivot Tables,Slicer,Charts & Data Visualization
 
-Microsoft Excel
-
-Pivot Tables
-
-Slicer
-
-Charts & Data Visualization
 
 📁 Files Included
 

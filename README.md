@@ -29,6 +29,7 @@ Dashboard.png
 <p align="left">
   <img src="Dashboard.png" width=250"/>
 </p>
+
 ## 🚀 Outcome
 
 This dashboard provides clear insights into pizza sales performance by analyzing revenue, orders, and product demand. It helps identify top-selling items, peak sales periods, and customer preferences.
